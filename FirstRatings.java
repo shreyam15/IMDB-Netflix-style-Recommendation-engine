@@ -1,6 +1,11 @@
-import edu.duke.*;
-import java.util.*;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+
 import org.apache.commons.csv.*;
+
+import edu.duke.*;
 
 /**
  * FirstRatings process the movie and ratings data and to answer questions about them. 

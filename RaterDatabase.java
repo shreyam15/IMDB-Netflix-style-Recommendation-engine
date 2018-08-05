@@ -1,4 +1,5 @@
 
+
 /**
  * RaterDatabase, is an efficient way to get information about raters. This class contains:
  *      A HashMap named ourRaters that maps a rater ID String to a Rater object that includes all the movie ratings made by this rater.
