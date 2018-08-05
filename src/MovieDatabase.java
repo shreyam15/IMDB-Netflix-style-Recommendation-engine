@@ -1,3 +1,4 @@
+package src;
 
 /*
  * This class is an efficient way to get information about movies. 
